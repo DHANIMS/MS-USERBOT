@@ -1,37 +1,31 @@
 <a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5534452.png" width="516" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+  <a href="https://github.com/DHANIMS/MS-USERBOT/fork">
+    <img src="https://img.shields.io/github/forks/DHANIMS/MS-USERBOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+    <img src="https://img.shields.io/github/stars/DHANIMS/MS-USERBOT?style=social">
   </a>
 </p>  
 
-![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
+![VIEWS](https://komarev.com/ghpvc/?username=DHANIMS)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/MIMIK_SUSU1"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
-## Pemilik Repo: ラマダン
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/maafgausahsokap)
+## Pemilik Repo: ᴅʜᴀɴɪ⍟ᵐˢ
+[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/PokokNygt)
 ##
 ##
-# KALO FORK TUH KASIH BINTANG YA TOLOL!
 
 
-## JOIN DULU TOT!!:
-
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel-%20RAM UBOT-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
-##
 
 # JANGAN BINGUNG BUAT DEPLOY!
-[![Deploy](https://telegra.ph/file/f042302b3a5a8fe6b4a48.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
+[![Deploy](https://telegra.ph/file/f042302b3a5a8fe6b4a48.jpg)](https://heroku.com/deploy?template=https://github.com/DHANIMS/MS-USERBOT.git)
 
 
-<h3 align="center">REPO RAM-UBOT DIBUAT KARNA LAGI GABUT AJA SI HAHA.</h3>
+
 <p align="center">&nbsp;</p>
 
 
@@ -56,7 +50,7 @@
 
 ## Credit
 TERIMAKASIH UNTUK
-
+*   [RAMA](https://github.com/ramadhani892) - ⭐RAM-UBOT⭐
 *   [VICKY](https://github.com/vckyou) - ⚡Geez-Userbot⚡
 *   [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 *   [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
