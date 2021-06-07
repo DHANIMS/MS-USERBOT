@@ -106,9 +106,9 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/ramadhani892/RAM-UBOT")
+    "https://github.com/DHANIMS/MS-USERBOT")
 UPSTREAM_REPO_BRANCH = os.environ.get(
-    "UPSTREAM_REPO_BRANCH", "RAM-UBOT")
+    "UPSTREAM_REPO_BRANCH", "MS-USERBOT")
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -205,7 +205,7 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", None)
 
 # Default .alive Logo
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/5e197cb47a4168c39f78f.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/db1b50fc6454b5dfbec9b.jpg"
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
@@ -423,12 +423,12 @@ with bot:
         dugmeler = CMD_HELP
         me = bot.get_me()
         uid = me.id
-        logo = "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg"
+        logo = "https://telegra.ph/file/db1b50fc6454b5dfbec9b.jpg"
 
         @tgbot.on(events.NewMessage(pattern="/start"))
         async def handler(event):
             if event.message.from_id != uid:
-                await event.reply("\n⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐, Buat Userbot Mu Sendiri [Tekan Disini](https://github.com/Ramadhani892)")
+                await event.reply("\nMS-USERBOT, Buat Userbot Mu Sendiri [Tekan Disini](https://github.com/DHANIMS/MS-USEBOT)")
             else:
                 await event.reply(f"`Hai {DEFAULTUSER}\n\nApa Kabarmu ? 😊`")
 
@@ -444,7 +444,7 @@ with bot:
                     text="{}"
                     f"\n\n**𝙿𝙴𝙼𝙸𝙻𝙸𝙺 𝙱𝙾𝚃 : {DEFAULTUSER}**\n\n"
                     " **𝙼𝙾𝙳𝚄𝙻𝙴𝚂 :** `{}`\n **𝚂𝙴𝙼𝚄𝙰 𝙼𝙴𝙽𝚄 :** \n".format(
-                        "** ━━━━━━❖━━━━━━\n    ⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐\n ━━━━━━❖━━━━━━ **",
+                        "** ━━━━━━❖━━━━━━\n    ☠️MS-USERBOT☠️\n ━━━━━━❖━━━━━━ **",
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -452,22 +452,22 @@ with bot:
                 )
             elif query.startswith("tb_btn"):
                 result = builder.article(
-                    "Bantuan Dari ━━━━━━❖━━━━━━\n    ⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐\n ━━━━━━❖━━━━━━ ",
+                    "Bantuan Dari ━━━━━━❖━━━━━━\n    ☠️MS-USERBOT☠️\n ━━━━━━❖━━━━━━ ",
                     text="Daftar Modul",
                     buttons=[],
                     link_preview=True)
             else:
                 result = builder.article(
-                    " ━━━━━━❖━━━━━━\n     ⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐\n ━━━━━━❖━━━━━━ ",
+                    " ━━━━━━❖━━━━━━\n     ☠️MS-USERBOT\n ━━━━━━❖━━━━━━ ",
                     text="""╭✠╼━━━━━━❖━━━━━━━✠╮\n**Anda Bisa Membuat \n⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐\n Anda Sendiri Dengan Cara :**\n __Tekan Dibawah Ini__ 👇\n╰✠╼━━━━━━❖━━━━━━━✠╯""",
                     buttons=[
                         [
                             custom.Button.url(
-                                "⭐𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐",
-                                "https://github.com/ramadhani892/RAM-UBOT"),
+                                "☠️MS-USERBOT☠️",
+                                "https://github.com/DHANIMS/MS-USERBOT"),
                             custom.Button.url(
-                                "⭐𝗢𝗪𝗡𝗘𝗥⭐",
-                                "t.me/ramubotinfo")]],
+                                "☠️𝗢𝗪𝗡𝗘𝗥☠️",
+                                "t.me/POKOKNYGT")]],
                     link_preview=False,
                 )
             await event.answer([result] if result else None)
