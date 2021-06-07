@@ -228,7 +228,7 @@ async def amireallyalive(alive):
     await asyncio.sleep(3)
     output = (
         f"**╔══════╣❃ ♕ ❃╠══════╗** \n"
-        f"**        ۩  ⬚⃝⃟    RAM-UBOT ⬚⃝⃟     ۩ ** \n"
+        f"**       ۩  ⬚⃝⃟    MS-USERBOT ⬚⃝⃟     ۩ ** \n"
         f"**╚══════╣❃ ♕ ❃╠══════╝** \n"
         f"\n__**{RAM_TEKS_KOSTUM}**__\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰**\n"
@@ -243,7 +243,7 @@ async def amireallyalive(alive):
         f"┣• `✨ Modules  :`{len(modules)} \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯\n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://www.instagram.com/ramadh20?r=nametag) || [𝐑𝐄𝐏𝐎](https://github.com/ramadhani892/RAM-UBOT) || [𝐆𝐑𝐎𝐔𝐏](t.me/teman_random) \n"
+        f"[𝐎𝐖𝐍𝐄𝐑](https://t.me/pokoknyGT) || [𝐑𝐄𝐏𝐎](https://github.com/DHANIMS/MS-USERBOT) || [𝐆𝐑𝐎𝐔𝐏](t.me/MIMIK_SUSU1) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
@@ -271,7 +271,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**╭✠╼━━━━━━❖━━━━━━━✠╮**\n"
-        f"             **♕ RAM-UBOT ♕** \n"
+        f"            **♕ MS-USERBOT ♕** \n"
         f"**╰✠╼━━━━━━❖━━━━━━━✠╯**\n"
         f"❃ **Tuan**             ➥ `{DEFAULTUSER}` \n"
         f"❃ **Username**    ➥ `@{user.username}` \n"
@@ -280,7 +280,7 @@ async def amireallyalive(alive):
         f"❃ **Versi Bot**      ➥ `7.0` \n"
         f"❃ **Modul**           ➥ `{len(modules)}` \n\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰**\n"
-        f"[✨𝗥𝗔𝗠-𝗨𝗕𝗢𝗧✨](https://github.com/ramadhani892/RAM-UBOT) || [𝗚𝗥𝗢𝗨𝗣](t.me/GEEZSUPPORTGROUP) || [𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠](https://www.instagram.com/ramadh20?r=nametag)\n"
+        f"[𝗠𝗦-𝗨𝗦𝗘𝗥𝗕𝗢𝗧](https://github.com/DHANIMS/MS-USERBOT) || [𝗚𝗥𝗢𝗨𝗣](t.me/mimik_susu1) || [𝗢𝗪𝗡𝗘𝗥](https://t.me/pokoknyGT)\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ **")
     if ALIVE_LOGO:
         try:
@@ -312,7 +312,7 @@ async def amireallyalive(alive):
     await asyncio.sleep(3)
     output = (
         f"**✠╼━━━━━━❖━━━━━━━✠ ** \n"
-        f"**          ✨𝗥𝗔𝗠-𝗨𝗕𝗢𝗧✨** \n"
+        f"**         ☠️MS-USERBOT☠️** \n"
         f"**✠╼━━━━━━❖━━━━━━━✠** \n"
         f"╭✠╼━━━━━━❖━━━━━━━✠╮ \n"
         f"┣|• `🤴 Majikan  :`{DEFAULTUSER} \n"
@@ -321,12 +321,12 @@ async def amireallyalive(alive):
         f"┣|• `🐉 Python   :`Ver {python_version()} \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯ \n"
         f"╭✠╼━━━━━━❖━━━━━━━✠╮ \n"
-        f"┣|• `Branch      :`RAM-UBOT \n"
+        f"┣|• `Branch      :`MS-USERBOT \n"
         f"┣|• `Bot Ver     :`7.0 \n"
         f"┣|• `Modules     :`{len(modules)} Modules \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯ \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[𝐑𝐄𝐏𝐎](https://github.com/ramadhani892/RAM-UBOT) || [𝐆𝐑𝐎𝐔𝐏](t.me/GEEZSUPPORTGROUP) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://www.instagram.com/ramadh20?r=nametag) \n"
+        f"[𝐑𝐄𝐏𝐎](https://github.com/DHANIMS/MS-USERBOT) || [𝐆𝐑𝐎𝐔𝐏](t.me/MIMIK_SUSU1) || [𝐎𝐖𝐍𝐄𝐑](https://t.me/pokoknyGT) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
